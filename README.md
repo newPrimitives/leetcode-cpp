@@ -21,5 +21,5 @@ Aim is to make the best possible code. If you see a mistake or think you can mak
 ## Table of contents 
 This section provides a list of all currently solved problems. You can expect to see updates on weekly basis. 
 ### Arrays 
-* [Remove Duplicates from Sorted Array](/blob/master/Arrays/RemoveDuplicatesFromSortedArray.js)
+* [Remove Duplicates from Sorted Array](/Arrays/RemoveDuplicatesFromSortedArray.js)
 
