@@ -1,6 +1,6 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="50px" align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="50px">
 
-<img src="https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/1507142_1156663634375565_2786233051577136014_n.png?oh=6bf7fd023308a91d531534f5d30bedbf&oe=58AC8285" height="50px" align="left">
+<img src="https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/1507142_1156663634375565_2786233051577136014_n.png?oh=6bf7fd023308a91d531534f5d30bedbf&oe=58AC8285" height="50px">
 
 <h1> Solutions to Leetcode problems in JavaScript </h1>
 Here you'll find implementations of most popular algorithms and data structures in JavasScript, with detailed explanations of how they actually work. The repository contains variety of problems, from easy to hard ones, hence everybody should find something. The repository is originaly created for the purpose of teaching students at <a href="http://ssst.edu.ba/" target="_blank"> University Sarajevo School of Science and Technology </a> for Data Structures class, however any contributes from outside the class are more than welcome. The repository is currently mainteind by professors, assistents and students of the University. 
