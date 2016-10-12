@@ -15,5 +15,5 @@ We organized this repository into groups according to tags from Leedcode. Each p
 <h3> How can I contribute? </h3>
 Aim is to make the best possible code. If you see a mistake or think you can make the algorithm run faster or provide a better explanation, feel free to do so. If the problem is not listed below, it means we haven't solved it yet, and in that case feel free to open a pull request. Just make sure you follow the simple rules described above. 
 
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
