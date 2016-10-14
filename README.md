@@ -22,4 +22,4 @@ Aim is to make the best possible code. If you see a mistake or think you can mak
 This section provides a list of all currently solved problems. You can expect to see updates on weekly basis. 
 ### Arrays 
 * [Remove Duplicates from Sorted Array](/Arrays/RemoveDuplicatesFromSortedArray.js)
-
+* [Remove Elements](/Arrays/RemoveElements.js)
