@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b8d660-c213-4c83-8eb2-93fce46544d4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Strings/LengthOfTheLastWord.js" afterPath="$PROJECT_DIR$/Strings/LengthOfTheLastWord.js" />
     </list>
     <ignored path="leetcode-js.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,11 +37,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LengthOfTheLastWord.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LengthOfTheLastWord.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/LengthOfTheLastWord.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="264">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseWordsInAString.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Strings/ReverseWordsInAString.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="149" selection-start-line="17" selection-start-column="149" selection-end-line="17" selection-end-column="149" />
               <folding />
             </state>
           </provider>
@@ -63,6 +75,7 @@
         <option value="$PROJECT_DIR$/Arrays/ValidAnagram.js" />
         <option value="$PROJECT_DIR$/Strings/RomanToInteger.js" />
         <option value="$PROJECT_DIR$/Strings/LengthOfTheLastWord.js" />
+        <option value="$PROJECT_DIR$/Strings/ReverseWordsInAString.js" />
       </list>
     </option>
   </component>
@@ -232,12 +245,12 @@
       <updated>1476300406951</updated>
       <workItem from="1476300408685" duration="433000" />
       <workItem from="1476301114708" duration="9869000" />
-      <workItem from="1477641952956" duration="3434000" />
+      <workItem from="1477641952956" duration="4099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13736000" />
+    <option name="totallyTimeSpent" value="14401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -414,8 +427,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Strings/LengthOfTheLastWord.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="264">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/ReverseWordsInAString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="149" selection-start-line="17" selection-start-column="149" selection-end-line="17" selection-end-column="149" />
           <folding />
         </state>
       </provider>
