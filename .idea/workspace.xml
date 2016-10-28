@@ -25,14 +25,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RomanToInteger.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RomanToInteger.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/RomanToInteger.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1176">
-              <caret line="49" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="83" selection-end-column="1" />
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LengthOfTheLastWord.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Strings/LengthOfTheLastWord.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,6 +62,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Arrays/ValidAnagram.js" />
         <option value="$PROJECT_DIR$/Strings/RomanToInteger.js" />
+        <option value="$PROJECT_DIR$/Strings/LengthOfTheLastWord.js" />
       </list>
     </option>
   </component>
@@ -221,12 +232,12 @@
       <updated>1476300406951</updated>
       <workItem from="1476300408685" duration="433000" />
       <workItem from="1476301114708" duration="9869000" />
-      <workItem from="1477641952956" duration="1727000" />
+      <workItem from="1477641952956" duration="3434000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12029000" />
+    <option name="totallyTimeSpent" value="13736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -394,10 +405,18 @@
     <entry file="file://$PROJECT_DIR$/Strings/RomanToInteger.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1176">
-          <caret line="49" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="83" selection-end-column="1" />
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/LengthOfTheLastWord.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
