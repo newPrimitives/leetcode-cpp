@@ -53,32 +53,5 @@ var romanToInt = function(s) {
  * @return {number}
  */
 function romanToNumber(character) {
-    var num = 0;
-    switch(character){
-        case 'I':
-            num = 1;
-            break;
-        case 'V':
-            num = 5;
-            break;
-        case 'X':
-            num = 10;
-            break;
-        case 'L':
-            num = 50;
-            break;
-        case 'C':
-            num = 100;
-            break;
-        case 'D':
-            num = 500;
-            break;
-        case 'M':
-            num = 1000;
-            break;
-        default:
-            num = 0;
-            break;
-    }
-    return num;
+    
 }

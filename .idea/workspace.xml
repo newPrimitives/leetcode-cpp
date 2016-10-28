@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b8d660-c213-4c83-8eb2-93fce46544d4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Strings/LengthOfTheLastWord.js" afterPath="$PROJECT_DIR$/Strings/LengthOfTheLastWord.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Strings/ReverseWordsInAString.js" afterPath="$PROJECT_DIR$/Strings/ReverseWordsInAString.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Strings/RomanToInteger.js" afterPath="$PROJECT_DIR$/Strings/RomanToInteger.js" />
     </list>
     <ignored path="leetcode-js.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +27,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RomanToInteger.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RomanToInteger.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Strings/RomanToInteger.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1176">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="485">
+              <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidAnagram.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Arrays/ValidAnagram.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="31" column="18" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="18" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -49,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseWordsInAString.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseWordsInAString.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/ReverseWordsInAString.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="149" selection-start-line="17" selection-start-column="149" selection-end-line="17" selection-end-column="149" />
+            <state relative-caret-position="-43">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -73,9 +87,9 @@
         <option value="$PROJECT_DIR$/Arrays/MajorityElement.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Arrays/ValidAnagram.js" />
-        <option value="$PROJECT_DIR$/Strings/RomanToInteger.js" />
         <option value="$PROJECT_DIR$/Strings/LengthOfTheLastWord.js" />
         <option value="$PROJECT_DIR$/Strings/ReverseWordsInAString.js" />
+        <option value="$PROJECT_DIR$/Strings/RomanToInteger.js" />
       </list>
     </option>
   </component>
@@ -245,12 +259,12 @@
       <updated>1476300406951</updated>
       <workItem from="1476300408685" duration="433000" />
       <workItem from="1476301114708" duration="9869000" />
-      <workItem from="1477641952956" duration="4099000" />
+      <workItem from="1477641952956" duration="5108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14401000" />
+    <option name="totallyTimeSpent" value="15410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -405,26 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/ValidAnagram.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/RomanToInteger.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Strings/LengthOfTheLastWord.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -437,9 +431,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Strings/ReverseWordsInAString.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="149" selection-start-line="17" selection-start-column="149" selection-end-line="17" selection-end-column="149" />
+        <state relative-caret-position="-43">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/ValidAnagram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/RomanToInteger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

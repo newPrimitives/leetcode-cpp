@@ -1,3 +1,14 @@
+/*
+* Problem URL: https://leetcode.com/problems/reverse-words-in-a-string/
+*
+* Problem description:
+* Given an input string, reverse the string word by word.
+*
+* For example,
+* Given s = "the sky is blue",
+* return "blue is sky the".
+*/
+
 /**
  * @param {string} str
  * @returns {string}
