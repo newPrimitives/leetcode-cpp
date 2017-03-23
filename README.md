@@ -1,10 +1,10 @@
 <p> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="70px" style="float: left;">
+<img src="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/042014/c_0.png?itok=NGrw5nRV" height="70px" style="float: left;">
 <img src="https://pbs.twimg.com/profile_images/541238914766217216/gFDUefgw.png" height="80px" style="float: left;">
 </p>
 
-# Solutions to Leetcode problems in JavaScript
-Here you'll find implementations of most popular algorithms and data structures in JavasScript, with detailed explanations of how they actually work. The repository contains variety of problems, from easy to hard ones, hence everybody should find something. The repository is originally created for the purpose of teaching students at <a href="http://ssst.edu.ba/" target="_blank"> University Sarajevo School of Science and Technology </a> for Data Structures class, however any contributes from outside the class are more than welcome. The repository is currently maintained by professors, assistants and students of the University. 
+# Solutions to Leetcode problems in C++
+Here you'll find implementations of most popular algorithms and data structures in C++, with detailed explanations of how they actually work. The repository contains variety of problems, from easy to hard ones, hence everybody should find something. The repository is originally created for the purpose of teaching students at <a href="http://ssst.edu.ba/" target="_blank"> University Sarajevo School of Science and Technology </a> for Data Structures class, however any contributes from outside the class are more than welcome. The repository is currently maintained by professors, assistants and students of the University. 
 
 ## What is Leetcode? 
 
