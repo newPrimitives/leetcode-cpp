@@ -20,13 +20,5 @@ Aim is to make the best possible code. If you see a mistake or think you can mak
 
 ## Table of contents 
 This section provides a list of all currently solved problems. You can expect to see updates on weekly basis. 
-### Arrays 
-* [Remove Duplicates from Sorted Array](/Arrays/RemoveDuplicatesFromSortedArray.js)
-* [Remove Element](/Arrays/RemoveElement.js)
-* [Majority element](/Arrays/MajorityElement.js)
-* [Valid Anagram](/Arrays/ValidAnagram.js)
-
-### Strings
- * [Length of the last word](/Strings/LengthOfTheLastWord.js)
- * [Reverse word in a string](/Strings/ReverseWordInAString.js)
- * [Roman to integer](/Strings/RomanToInteger.js)
+### Stacks 
+* [Min Stack](/Stacks/minstack.cpp)
