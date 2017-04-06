@@ -20,6 +20,7 @@ Aim is to make the best possible code. If you see a mistake or think you can mak
 
 ## Table of contents 
 This section provides a list of all currently solved problems. You can expect to see updates on weekly basis. 
+
 ### Stacks 
 * [Min Stack](/Stacks/minstack.cpp)
 * [Valid Parentheses](/Stacks/validparentheses.cpp)
@@ -27,3 +28,4 @@ This section provides a list of all currently solved problems. You can expect to
 ### Linked lists 
 * [Remove duplicates from Sorted list](/Linked-list/removeduplicatesfromsortedlist.cpp)
 * [Linked List Cycle](/Linked-list/linkedlistcycle.cpp)
+* [Remove Nth node from the list](/Linked-list/removenthnodefromthelist.cpp)
