@@ -25,4 +25,5 @@ This section provides a list of all currently solved problems. You can expect to
 * [Valid Parentheses](/Stacks/validparentheses.cpp)
 
 ### Linked lists 
-* [Remove duplicates from Sorted list](/linked-list/removeduplicatesfromsortedlist.cpp)
+* [Remove duplicates from Sorted list](/Linked-list/removeduplicatesfromsortedlist.cpp)
+* [Linked List Cycle](/Linked-list/linkedlistcycle.cpp)
