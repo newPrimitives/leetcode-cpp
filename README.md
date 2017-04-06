@@ -23,3 +23,6 @@ This section provides a list of all currently solved problems. You can expect to
 ### Stacks 
 * [Min Stack](/Stacks/minstack.cpp)
 * [Valid Parentheses](/Stacks/validparentheses.cpp)
+
+### Linked lists 
+* [Remove duplicates from Sorted list](/linked-list/removeduplicatesfromsortedlist.cpp)
