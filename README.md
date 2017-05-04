@@ -42,6 +42,6 @@ This section provides a list of all currently solved problems. You can expect to
 * [Valid anagram](/String/validanagram.cpp)
 
 ### Trees
-* [Remove duplicates from Sorted list](/Trees/flatenbinarytreetolinkedlist.cpp)
+* [Flaten Binary tree to linked list](/Trees/flatenbinarytreetolinkedlist.cpp)
 
 
