@@ -21,11 +21,27 @@ Aim is to make the best possible code. If you see a mistake or think you can mak
 ## Table of contents 
 This section provides a list of all currently solved problems. You can expect to see updates on weekly basis. 
 
-### Stacks 
-* [Min Stack](/Stacks/minstack.cpp)
-* [Valid Parentheses](/Stacks/validparentheses.cpp)
+### Arrays 
+* [Find minimum in rotated sorted array](/Arrays/findminimuminrotatedsortedarray.cpp)
+* [Largest Number](/Arrays/largestnumber.cpp)
+
+### Hash tables 
+* [Contains Duplicate](/Hash-table/containsduplicate.cpp)
+* [Single number](/Hash-table/singlenumber.cpp)
 
 ### Linked lists 
 * [Remove duplicates from Sorted list](/Linked-list/removeduplicatesfromsortedlist.cpp)
 * [Linked List Cycle](/Linked-list/linkedlistcycle.cpp)
 * [Remove Nth node from the list](/Linked-list/removenthnodefromthelist.cpp)
+
+### Stacks 
+* [Min Stack](/Stacks/minstack.cpp)
+* [Valid Parentheses](/Stacks/validparentheses.cpp)
+
+### Strings 
+* [Valid anagram](/String/validanagram.cpp)
+
+### Trees
+* [Remove duplicates from Sorted list](/Trees/flatenbinarytreetolinkedlist.cpp)
+
+
