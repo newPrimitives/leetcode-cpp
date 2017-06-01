@@ -39,13 +39,14 @@ This section provides a list of all currently solved problems. You can expect to
 * [Valid Parentheses](/Stacks/validparentheses.cpp)
 
 ### Strings 
+* [Reverse string](/String/reversestring.cpp)
 * [Valid anagram](/String/validanagram.cpp)
 
 ### Trees
 * [Balanced Binary Tree](/Trees/balancedbinarytree.cpp)
 * [Convert sorted array to binary search tree](/Trees/convertsortedarraytobinarysearchtree.cpp)
 * [Flaten Binary tree to linked list](/Trees/flatenbinarytreetolinkedlist.cpp)
-* [Minimum depth of binary tree](/Trees/minimumdepthofbinaryrtree.cpp)
+* [Minimum depth of binary tree](/Trees/minimumdepthofbinarytree.cpp)
 * [Same tree](/Trees/sametree.cpp)
 
 

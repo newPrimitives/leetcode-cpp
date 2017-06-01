@@ -15,5 +15,5 @@ Alternatively, a tree can be defined abstractly as a whole (globally) as an orde
 * [Balanced Binary Tree](/Trees/balancedbinarytree.cpp)
 * [Convert sorted array to binary search tree](/Trees/convertsortedarraytobinarysearchtree.cpp)
 * [Flaten Binary tree to linked list](/Trees/flatenbinarytreetolinkedlist.cpp)
-* [Minimum depth of binary tree](/Trees/minimumdepthofbinaryrtree.cpp)
+* [Minimum depth of binary tree](/Trees/minimumdepthofbinarytree.cpp)
 * [Same tree](/Trees/sametree.cpp)
