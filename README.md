@@ -42,6 +42,10 @@ This section provides a list of all currently solved problems. You can expect to
 * [Valid anagram](/String/validanagram.cpp)
 
 ### Trees
+* [Balanced Binary Tree](/Trees/balancedbinarytree.cpp)
+* [Convert sorted array to binary search tree](/Trees/convertsortedarraytobinarysearchtree.cpp)
 * [Flaten Binary tree to linked list](/Trees/flatenbinarytreetolinkedlist.cpp)
+* [Minimum depth of binary tree](/Trees/minimumdepthofbinaryrtree.cpp)
+* [Same tree](/Trees/sametree.cpp)
 
 
